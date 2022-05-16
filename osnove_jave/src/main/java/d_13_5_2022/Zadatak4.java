@@ -26,6 +26,8 @@ public class Zadatak4 {
             if (zahtev.contains("hvala")){
                 System.out.println("Cao");
             }
+
         }
+
     }
 }
